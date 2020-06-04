@@ -1,0 +1,12 @@
+F:\Github\Disco-RD-Windows-Installer\Release\Disco-RD Internal.exe.config
+F:\Github\Disco-RD-Windows-Installer\Release\Disco-RD Internal.exe
+F:\Github\Disco-RD-Windows-Installer\Release\Disco-RD Internal.pdb
+F:\Github\Disco-RD-Windows-Installer\Release\Disco-RD Internal.xml
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.vbprojAssemblyReference.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco_RD_Internal.Resources.resources
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.vbproj.GenerateResource.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.vbproj.CoreCompileInputs.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.vbproj.CopyComplete
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.exe
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.xml
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.pdb

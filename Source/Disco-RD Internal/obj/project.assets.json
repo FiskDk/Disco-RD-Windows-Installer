@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Colorful.Console/1.2.10": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net461/Colorful.Console.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Colorful.Console.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Colorful.Console/1.2.10": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net461/Colorful.Console.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Colorful.Console.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Colorful.Console/1.2.10": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net461/Colorful.Console.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Colorful.Console.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Colorful.Console/1.2.10": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Drawing"
+        ],
+        "compile": {
+          "lib/net461/Colorful.Console.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Colorful.Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Colorful.Console/1.2.10": {
+      "sha512": "k9PGhscle9U3V/EbRhWLuU1683pteAmD4d+FKFjoK6Fn4Bykl6uWQH5y0qMAAXU5zlHTmEYB7JGxdvsoXlk5Ag==",
+      "type": "package",
+      "path": "colorful.console/1.2.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "colorful.console.1.2.10.nupkg.sha512",
+        "colorful.console.nuspec",
+        "lib/net40/Colorful.Console.dll",
+        "lib/net45/Colorful.Console.dll",
+        "lib/net451/Colorful.Console.dll",
+        "lib/net452/Colorful.Console.dll",
+        "lib/net46/Colorful.Console.dll",
+        "lib/net461/Colorful.Console.dll",
+        "lib/netstandard2.0/Colorful.Console.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Colorful.Console >= 1.2.10"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\f1sk\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
+      "projectName": "Disco-RD Internal",
+      "projectPath": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
+      "packagesPath": "C:\\Users\\f1sk\\.nuget\\packages\\",
+      "outputPath": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\f1sk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Colorful.Console": {
+            "target": "Package",
+            "version": "[1.2.10, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

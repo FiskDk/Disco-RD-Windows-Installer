@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj": {}
+  },
+  "projects": {
+    "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
+        "projectName": "Disco-RD Internal",
+        "projectPath": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
+        "packagesPath": "C:\\Users\\f1sk\\.nuget\\packages\\",
+        "outputPath": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\f1sk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Colorful.Console": {
+              "target": "Package",
+              "version": "[1.2.10, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

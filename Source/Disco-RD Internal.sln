@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Disco-RD Internal", "Disco-RD Internal\Disco-RD Internal.vbproj", "{C00BD5E8-08AB-40D4-94FC-D406D00B84AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Disco-RD Internal -debug|Any CPU = Disco-RD Internal -debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00BD5E8-08AB-40D4-94FC-D406D00B84AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00BD5E8-08AB-40D4-94FC-D406D00B84AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00BD5E8-08AB-40D4-94FC-D406D00B84AE}.Disco-RD Internal -debug|Any CPU.ActiveCfg = Debug 2|Any CPU
+		{C00BD5E8-08AB-40D4-94FC-D406D00B84AE}.Disco-RD Internal -debug|Any CPU.Build.0 = Debug 2|Any CPU
+		{C00BD5E8-08AB-40D4-94FC-D406D00B84AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00BD5E8-08AB-40D4-94FC-D406D00B84AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB41EFFD-20B8-41DF-B273-25A80B2D049D}
+	EndGlobalSection
+EndGlobal

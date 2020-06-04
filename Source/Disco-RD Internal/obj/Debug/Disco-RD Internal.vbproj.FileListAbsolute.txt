@@ -1,0 +1,35 @@
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\bin\Debug\Disco-RD Internal.exe.config
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\bin\Debug\Disco-RD Internal.exe
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\bin\Debug\Disco-RD Internal.pdb
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\bin\Debug\Disco-RD Internal.xml
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbprojAssemblyReference.cache
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug\Disco_RD_Internal.Resources.resources
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbproj.GenerateResource.cache
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug\Disco-RD Internal.exe
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug\Disco-RD Internal.xml
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug\Disco-RD Internal.pdb
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Disco-RD Internal.exe.config
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Disco-RD Internal.exe
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Disco-RD Internal.pdb
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Disco-RD Internal.xml
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbprojAssemblyReference.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco_RD_Internal.Resources.resources
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbproj.GenerateResource.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbproj.CoreCompileInputs.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.exe
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.xml
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.pdb
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Disco-RD Internal.exe.config
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Disco-RD Internal.exe
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Disco-RD Internal.pdb
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Disco-RD Internal.xml
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbprojAssemblyReference.cache
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco_RD_Internal.Resources.resources
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbproj.GenerateResource.cache
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.exe
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.xml
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.pdb
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Colorful.Console.dll
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbproj.CopyComplete
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug\Colorful.Console.dll
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug\Disco-RD Internal.vbproj.CopyComplete

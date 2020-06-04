@@ -1,0 +1,21 @@
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\bin\Debug 2\Disco-RD Internal.exe.config
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\bin\Debug 2\Disco-RD Internal.exe
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\bin\Debug 2\Disco-RD Internal.pdb
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\bin\Debug 2\Disco-RD Internal.xml
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.vbprojAssemblyReference.cache
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug 2\Disco_RD_Internal.Resources.resources
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.vbproj.GenerateResource.cache
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.exe
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.xml
+C:\Users\tsjpl\source\repos\Disco-RD Internal\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.pdb
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug 2\Disco-RD Internal.exe.config
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug 2\Disco-RD Internal.exe
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug 2\Disco-RD Internal.pdb
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\bin\Debug 2\Disco-RD Internal.xml
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.vbprojAssemblyReference.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug 2\Disco_RD_Internal.Resources.resources
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.vbproj.GenerateResource.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.vbproj.CoreCompileInputs.cache
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.exe
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.xml
+F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Debug 2\Disco-RD Internal.pdb

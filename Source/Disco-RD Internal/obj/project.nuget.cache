@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aw3K4YiE/tX5mZvHzyB67rzLdsA/Jm3Q0Bw8r3AFzhP3RfbJRrew0BTGf+jtcAPvBHbmAHONMgeHEO3Y75TRuQ==",
+  "success": true,
+  "projectFilePath": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f1sk\\.nuget\\packages\\colorful.console\\1.2.10\\colorful.console.1.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}
