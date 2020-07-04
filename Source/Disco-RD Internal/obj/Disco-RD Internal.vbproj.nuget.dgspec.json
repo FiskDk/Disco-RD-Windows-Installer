@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj": {}
+    "E:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj": {}
   },
   "projects": {
-    "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj": {
+    "E:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
+        "projectUniqueName": "E:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
         "projectName": "Disco-RD Internal",
-        "projectPath": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
-        "packagesPath": "C:\\Users\\f1sk\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\obj\\",
+        "projectPath": "E:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\Disco-RD Internal.vbproj",
+        "packagesPath": "C:\\Users\\tsjpl\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\Disco-RD-Windows-Installer\\Source\\Disco-RD Internal\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "C:\\Users\\f1sk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tsjpl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

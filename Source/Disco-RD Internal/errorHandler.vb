@@ -17,6 +17,9 @@
         If errorCode = "1x0002" Then
             elog(errorCode + " FATAL Unable to decrypt")
         End If
+        If errorCode = "0x1000" Then
+            elog(errorCode + " FATAL Unable to download")
+        End If
         ilog("Press any key to continue.")
         Console.ReadKey()
         If canRecover = False Then

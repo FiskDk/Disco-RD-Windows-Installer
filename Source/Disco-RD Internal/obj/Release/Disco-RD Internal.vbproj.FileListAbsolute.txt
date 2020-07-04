@@ -10,3 +10,14 @@ F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-
 F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.exe
 F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.xml
 F:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.pdb
+E:\Github\Disco-RD-Windows-Installer\Release\Disco-RD Internal.exe.config
+E:\Github\Disco-RD-Windows-Installer\Release\Disco-RD Internal.exe
+E:\Github\Disco-RD-Windows-Installer\Release\Disco-RD Internal.pdb
+E:\Github\Disco-RD-Windows-Installer\Release\Disco-RD Internal.xml
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.vbprojAssemblyReference.cache
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco_RD_Internal.Resources.resources
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.vbproj.GenerateResource.cache
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.vbproj.CopyComplete
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.exe
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.xml
+E:\Github\Disco-RD-Windows-Installer\Source\Disco-RD Internal\obj\Release\Disco-RD Internal.pdb

